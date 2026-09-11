@@ -1,15 +1,14 @@
-<h2>Hi! I'm Dhea <img src="https://i.postimg.cc/C52q0Tqy/ezgif-com-crop.gif" width="40" /></h2>
+<h2>Hi! I'm Andrea <img src="https://i.postimg.cc/C52q0Tqy/ezgif-com-crop.gif" width="40" /></h2>
 
-- 🎨 <b>Interest</b>: Web Development and Design, Machine Learning
-- 📚 <b>Learning</b>: Laravel, Python
-- 💻 <b>Skills</b>: HTML, CSS, SCSS, Tailwind CSS, React, JavaScript, PHP, MySQL, Java  
+**Software Engineer · UI/UX · Web Development · Automation · AI/ML**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrealouisedayo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://andreadayo.netlify.app/)
-[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/andreadayo_)
+I'm a software engineer with a background in design, so I care about how a solution works and how people interact with it. When I'm not working, you'll probably find me playing cozy or puzzle games, rewatching B99 for the 20th time, or exploring new tech.
 
+- 🔧 Currently working as an **SAP Software Engineer**
+- 🌱 Currently exploring **data engineering and low-code automation**
+- 🌐 Portfolio: [andreadayo.vercel.app](https://andreadayo.vercel.app/)
+- 📩 Email: [dayo.andrealouise@gmail.com](mailto:dayo.andrealouise@gmail.com)
 
+Feel free to reach out if you'd like to connect, collaborate, or talk about tech!
 
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=andreadayo&abbreviated=true&style=flat-square&color=yellow)
