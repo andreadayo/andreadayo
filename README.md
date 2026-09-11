@@ -6,7 +6,7 @@ I'm a software engineer with a background in design, so I care about how a solut
 
 - 🔧 Currently working as an **SAP Software Engineer**
 - 🌱 Currently exploring **data engineering and low-code automation**
-- 🌐 Portfolio: [andreadayo.vercel.app](https://andreadayo.vercel.app/)
+- 🌐 Portfolio: [andreadayo.com](https://andreadayo.com)
 - 📩 Email: [dayo.andrealouise@gmail.com](mailto:dayo.andrealouise@gmail.com)
 
 Feel free to reach out if you'd like to connect, collaborate, or talk about tech!
